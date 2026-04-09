@@ -1,0 +1,24 @@
+# ESP-IDF build artifacts
+/build/
+
+# ESP-IDF generated local configuration
+/sdkconfig
+/sdkconfig.old
+
+# Component manager download cache/output
+/managed_components/
+
+# Local logs
+/log/
+
+# IDE/editor local files
+/.vscode/
+/.idea/
+*.code-workspace
+
+# OS/editor noise
+*.swp
+*.swo
+*.tmp
+Thumbs.db
+Desktop.ini
